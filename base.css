@@ -56,7 +56,6 @@ table {
 }
 
 /* Give canvas a background */
-canvas {
-  background-color:black;
-
+canvas body {
+    background-color: black;
 }
